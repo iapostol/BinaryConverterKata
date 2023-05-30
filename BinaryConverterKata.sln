@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryConverter.Tests", "BinaryConverter.Tests\BinaryConverter.Tests.csproj", "{AAE96058-C85C-4ABE-B0CB-831E53F41853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryConverter", "BinaryConverter\BinaryConverter.csproj", "{06202C75-B763-45CB-9006-063E942B7A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE96058-C85C-4ABE-B0CB-831E53F41853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE96058-C85C-4ABE-B0CB-831E53F41853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE96058-C85C-4ABE-B0CB-831E53F41853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE96058-C85C-4ABE-B0CB-831E53F41853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06202C75-B763-45CB-9006-063E942B7A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06202C75-B763-45CB-9006-063E942B7A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06202C75-B763-45CB-9006-063E942B7A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06202C75-B763-45CB-9006-063E942B7A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
